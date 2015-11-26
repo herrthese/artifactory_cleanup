@@ -1,0 +1,15 @@
+---
+days1:
+  14:
+    - yum-testrepo1-local
+    - yum-testrepo2-local
+days2:
+  30:
+    - yum-testrepo3-local
+    - maven-testrepo4-local
+    - maven-testrepo5-local
+days3:
+  60:
+    - yum-testrepo6-local
+    - maven-testrepo7-local
+    - maven-testrepo8-local
