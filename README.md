@@ -24,4 +24,4 @@ use the `./data/artifactury_cleanup.yaml` for the configuration.
         - maven-testrepo7-local
         - maven-testrepo8-local
 
-Example: days1 will be deleted when the artifacts are olden than 14 days.        
+Example: days14 will be deleted when the artifacts are olden than 14 days.        
